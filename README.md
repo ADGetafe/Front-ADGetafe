@@ -127,6 +127,7 @@ Luego para comenzar a trabajar tendremos que hacer una carpeta en el directorio 
 Si usamos imágenes tendremos que crear una carpeta llamada `ASSETS` e incluirlas ahí. 
 
 Luego de terminar el proyecto tendremos que compilarlo y enviarlo a producción y para eso ejecutamos el comando 
+
 `npm run build`
 
 La compilación del código tomará un tiempo y, cuando se complete, tendremos un directorio nuevo denominado `build/.`
